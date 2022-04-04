@@ -5,9 +5,24 @@ Tips for newcomers (esp Indian students) who are either in Saarland or are plann
 # Before joining 
 
 
+# Applying to German language course  
+
 
 # Applying to courses 
 
 
 # 1st month in Saarland 
+
+# Easy courses 
+(easiness is relative) 
+
+* 
+* 
+* 
+* 
+
+# Tracking credits 
+
+
+
 
