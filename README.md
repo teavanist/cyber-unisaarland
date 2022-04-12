@@ -23,6 +23,7 @@ Easy. Just go to Santander next to the Welcome Center. The person sitting there 
 
 # Applying to courses 
 
+# Difference between tutorials and lectures 
 
 # 1st month in Saarland 
 
