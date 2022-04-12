@@ -45,6 +45,9 @@ Easy. Just go to Santander next to the Welcome Center. The person sitting there 
 
 # Part time jobs 
 
+# Full time jobs and blue card process 
+
+
 
 
 
