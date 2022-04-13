@@ -44,6 +44,9 @@ Easy. Just go to Santander next to the Welcome Center. The person sitting there 
 # Time management 
 
 # Part time jobs 
+The University has a newsletter that you can subscribe to at: 
+https://cs.fs.uni-saarland.de/mailman/listinfo/jobs
+
 
 # Full time jobs and blue card process 
 
