@@ -32,12 +32,21 @@ Easy. Just go to Santander next to the Welcome Center. The person sitting there 
 # 1st month in Saarland 
 
 # Easy courses 
-(easiness is relative) 
+Easiness is relative. There are no real easy subjects in a German university. They all test how much you understood and the questions in the final exam are genrally designed to test your ability to use your understanding to solve a problem or apply to a scenario. Quite different from the mindless rote learning that we are exposed to back in India. Nonetheless, I have graded them based (.... criteria to be filled...) 
 
-* 
-* 
-* 
-* 
+* German Language
+* Perspectives in Cyber Security (great if you ever thought of building a startup/ product of your own) 
+* Data networks 
+* Ethics for Nerds 
+* IT Forensics
+* Distributed graph algorithm 
+* Secure Web Development
+* Cryptography 
+* Security Core - make sure you thoroughly understand the buffer overflow, functions and stack portion. Try practice questions from the internet. During tutorials ask for more demonstrations so that you really grasp the theory and you can solve the problems. Ask for more sample problems during tutorial. 
+
+Only available for the Entrepreneurial stream: 
+
+* Digital Entrepreneurship
 
 # Tracking credits 
 
@@ -61,13 +70,7 @@ https://cs.fs.uni-saarland.de/mailman/listinfo/jobs
 
 # Full time jobs and blue card process 
 
-
-
-
-
-
-
-
-
+I have not found the CV format to be of much importance. Cover letter is quite important. For job search I relied on: 
+https://www.stepstone.de/ and LinkedIn jobs 
 
 
