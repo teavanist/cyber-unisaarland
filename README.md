@@ -15,6 +15,10 @@ Thanks to my friends in particular, Vikram, Peter, .... for contributing to the 
 
 # Bank account 
 Easy. Just go to Santander next to the Welcome Center. The person sitting there speaks English and will explain everything for you. 
+# Insurance (below 35 years of age) 
+
+# Insurance (above 35 years of age - private insurance) 
+
 
 # Internet 
 
@@ -40,6 +44,13 @@ Easy. Just go to Santander next to the Welcome Center. The person sitting there 
 # Vitamin D 
 
 # Mental Health 
+If you think you need counselling or feel like talking to a mental health professional, you can approach the Psychologisch-Psychotherapeutische Beratungsstelle des Studentenwerkes im Saarland e.V. group at the University. 
+
+E-Mail: ppb@studentenwerk-saarland.de
+Web: www.studentenwerk-saarland.de
+Tel: +49 (0) 681 / 302 – 2515
+
+During my time, they would schedule an appointment for you with a trained counsellor via video or phone call.
 
 # Time management 
 
